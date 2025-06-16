@@ -568,6 +568,195 @@ body{
     }
 
     @media (max-width: 768px){
-        
+        .imagen01{
+            padding-left: 0px;
+            width: 25%;
+        }
+
+        .lista{
+            gap: 15px;
+            font-size: 15px;
+            padding-left: 0px;
+        }
+
+        .degradado{
+            font-size: 13px;
+            padding: 8px 10px;
+        }
+
+        .lista03{
+            font-size: 13px;
+        }
+
+        .caja01{
+            height: 62px;
+        }
+
+        .izquierda{
+            width: 65%;
+        }
+
+        .titulo01{
+            padding-left: 25px;
+            padding-top: 5px;
+            font-size: 60px;
+        }
+
+        .texto01{
+            padding-left: 25px;
+            margin-top: 40px;
+        }
+
+        .botones{
+            margin-left: 20px;
+            width: 228px;
+        }
+
+        .boton01{
+            font-size: 15px;
+            padding: 6px 9px;
+        }
+
+        .boton02{
+            font-size: 15px;
+            padding: 5px 8px;
+        }
+
+        .imagen02{
+            width: 65%;
+            padding-left: 30px;
+            padding-top: 100px;
+        }
+
+        .derecha{
+            height: 500px;
+        }
+
+        .titulo02{
+            font-size: 55px;
+            padding-top: 30px;
+        }
+
+        .imagen03{
+            margin-bottom: 0px;
+            padding-left: 40px;
+        }
+
+        .columna{
+            width: 45%;
+            padding-left: 25px;
+            padding-top: 20px;
+        }
+
+        .titulo03{
+            font-size: 30px;
+        }
+
+        .texto02{
+            padding-left: 5px;
+            font-size: 17px;
+        }
+
+        .titulo04{
+            font-size: 19px;
+            margin-bottom: 0px;
+        }
+
+        .lista02{
+            font-size: 15px;
+            margin-top: 10px;
+        }
+
+        .caja03{
+            height: 460px;
+        }
+
+        .titulo05{
+            font-size: 50px;
+            margin: 25px;
+        }
+
+        .texto03{
+            width: 80%;
+            font-size: 17px;
+        }
+
+        .columnas{
+            padding-left: 23px;
+            gap: 13px;
+        }
+
+        .columna01{
+            width: 30%;
+        }
+
+        .imagen04{
+            padding-left: 31px;
+        }
+
+        .titulo06{
+            padding-bottom: 10px;
+        }
+
+        .titulo07{
+            padding-bottom: 10px;
+        }
+
+        .texto04{
+            font-size: 25px;
+        }
+
+        .texto07{
+            font-size: 16px;
+        }
+
+        .lista04 {
+            padding-left: 3px;
+        }
+
+        .lista03{
+            font-size: 14px;
+            padding-left: 3px;
+            margin-bottom: 0px;
+        }
+
+        .texto05{
+            padding-left: 0px;
+            font-size: 16px;
+            width: 100%;
+            padding-top: 10px;
+        }
+
+        .boton03{
+            margin-left: 7px;
+            padding: 10px 15px;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+
+        .botonGris01{
+            margin-top: 0px;
+            height: 56px;
+        }
+
+        .boton04{
+            margin-left: 7px;
+            padding: 10px 15px;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+
+        .caja04{
+            height: 890px;
+        }
+
+        .texto06{
+            font-size: 15px;
+            padding-left: 20px;
+        }
+
+        .icono01{
+            padding-top: 40px;
+        }
     }
 }
