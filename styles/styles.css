@@ -185,6 +185,7 @@ body{
 
 .caja04{
     background-color: #1e172f;
+    height: 1100px;
 }
 
 .titulo05{
@@ -265,7 +266,7 @@ body{
 }
 
 .boton03{
-    margin-left: 80px;
+    margin-left: 70px;
     background: linear-gradient(to right, #ec5fa8, #f41586);
     border: none;
     color: white;
@@ -276,7 +277,7 @@ body{
 }
 
 .boton04{
-    margin-left: 80px;
+    margin-left: 70px;
     background-color: #2e2550;
     border: none;
     color: white;
@@ -341,7 +342,7 @@ body{
     filter: invert(100%) brightness(0.2) grayscale(20%);
     display: inline-flex;
     padding-top: 35px;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 
 .icono02{
